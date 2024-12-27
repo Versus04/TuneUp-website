@@ -72,7 +72,7 @@ export default function Home() {
       </div>
 
       <footer className="mt-24 text-center text-sm text-gray-400">
-        © 2024 TuneUp. All rights reserved.
+        Happy New Year 
       </footer>
     </main>
   )
