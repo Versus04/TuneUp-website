@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Button } from "@/components/ui/button"
 import { ArrowDown, Music, Zap, Heart } from 'lucide-react'
-
+import { Analytics } from "@vercel/analytics/react"
 export default function Home() {
   const [isDownloading, setIsDownloading] = useState(false)
 
